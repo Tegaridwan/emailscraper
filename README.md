@@ -5,7 +5,9 @@
 <p>ketik: python emailscraper.py</p>
 <p>[+]Masukkan url : 'url website yang akan di lacak'</p>
 <p>[+]Masukkan limit : 'limit link yang akan dilacak'</p>
-<p>Contoh:
-  url: https://www.dpr.go.id/
-  limit: 20
-</p>
+<p>Contoh:</p>
+  <p>url: https://www.dpr.go.id/</p>
+  <p>limit: 20</p>
+<h2>Terimakasih</h2>
+<h3>Donasi:</h3>
+<link>https://saweria.co/redtegar</link>
